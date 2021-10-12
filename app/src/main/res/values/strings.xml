@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AtvN1</string>
+    <string name="label_Personagem">Personagens</string>
+    <string name="label_Anotacoes">Anotações</string>
+    <string name="label_PersonagemAdd">PersonagemAdd</string>
+    <string name="label_PersonagemInfo">PersonagemInfo</string>
+
+    <string-array name="classes">
+        <item>Selecione...</item>
+        <item>Guerreiro</item>
+        <item>Mago</item>
+        <item>Bárbaro</item>
+        <item>Feiticeiro</item>
+        <item>Drúida</item>
+        <item>Bruxo</item>
+        <item>Patrulheiro</item>
+        <item>Clérigo</item>
+    </string-array>
+
+    <string-array name="level">
+        <item>Selecione...</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+</resources>
